@@ -1,0 +1,16 @@
+cache/
+Cleaned Data/
+outputs/
+outputs_spatial/
+*.csv
+*.jpeg
+*.png
+*.jpg
+__pycache__/
+.DS_Store
+.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+notebooks/cache/
+*.pyc
+*.csv
