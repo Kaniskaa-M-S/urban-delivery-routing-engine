@@ -74,4 +74,4 @@ Road network data retrieved via OSMnx. Demand and destination data represent del
 
 ## Status
 
-Research complete. Findings contributed to a Springer book chapter on last-mile delivery optimization. Analysis available for extension to additional dispatch centers and city networks.
+Findings contributed to a Springer book chapter on last-mile delivery optimization. Analysis available for extension to additional dispatch centers and city networks.
